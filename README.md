@@ -10,4 +10,4 @@ Game Over Messages: Informative pop-up messages for game outcomes (winner or tie
 1. Ensure you have Python installed on your system.
 2. Run the script using python tic_tac_toe.py.
 3. The game window will appear, allowing you to play Tic Tac Toe.\
-Feel free to fork and modify the code for your needs or contribute to enhance the game further. Enjoy playing Tic Tac Toe!
+\Feel free to fork and modify the code for your needs or contribute to enhance the game further. Enjoy playing Tic Tac Toe!
